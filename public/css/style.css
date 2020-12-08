@@ -1,0 +1,38 @@
+#app {
+  background-color: #e7e8ec;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.carousel_image__image_cover > .v-image__image--cover {
+  background-size: auto 100%;
+  height: 344px;
+}
+
+@media (min-width: 1264px) {
+  .container {
+    max-width: 1248px;
+  }
+}
+.toolbar_dropdown_menu_items > .v-btn:hover {
+  transition: color 0.2s;
+  text-decoration: underline;
+  background-color: transparent !important;
+  opacity: 1;
+}
+
+.dropdown_categories_menu_item_list_title > .v-btn {
+  text-transform: capitalize;
+}
+.v-carousel__controls {
+  height: 45px !important;
+  background-color: transparent !important;
+  z-index: 0;
+}
+
+.text_align_left {
+  text-align: left;
+}
+
+.text_align_right {
+  text-align: right;
+}

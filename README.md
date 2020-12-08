@@ -1,4 +1,4 @@
-# daraz-shop
+# Vue - Ecommerce HomePage
 
 ## Project setup
 ```
